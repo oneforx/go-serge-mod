@@ -2,3 +2,5 @@ github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/oneforx/go-serge v0.0.1 h1:xmVgM/9e8f7qIWJ4AzE24rTt78Bx/9b3lyXM1J2dHDs=
 github.com/oneforx/go-serge v0.0.1/go.mod h1:oTFQkzGn+E2AGkQggddyA/VofTnLbqsebs7nRFmZZaQ=
+github.com/oneforx/go-serge v0.0.2 h1:5Gsu/a3fUdjMmRrz3RwgS4IzKnKysQpwMVx3ZV3VRc8=
+github.com/oneforx/go-serge v0.0.2/go.mod h1:oTFQkzGn+E2AGkQggddyA/VofTnLbqsebs7nRFmZZaQ=

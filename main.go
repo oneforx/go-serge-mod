@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/oneforx/go-serge-example/systems"
+	"github.com/oneforx/go-serge-mod/systems"
 	"github.com/oneforx/go-serge/ecs"
 	"github.com/oneforx/go-serge/library"
 )

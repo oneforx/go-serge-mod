@@ -3,11 +3,12 @@ package systems
 import (
 	"log"
 
-	"github.com/oneforx/go-serge-example/compositions"
+	"github.com/oneforx/go-serge-mod/compositions"
 	"github.com/oneforx/go-serge/ecs"
 )
 
 type BulletSystem struct {
+	ecs.System
 	Id    ecs.Identifier
 	Name  string
 	World *ecs.IWorld
