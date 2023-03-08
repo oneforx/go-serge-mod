@@ -1,16 +1,15 @@
 package main
 
 import (
+	"github.com/oneforx/go-ecs"
 	"github.com/oneforx/go-serge-mod/systems"
-	"github.com/oneforx/go-serge/ecs"
-	"github.com/oneforx/go-serge/library"
 )
 
-func Load() library.ILibrary {
-	var myLibrary = &library.Library{
+func Load() ecs.ILibrary {
+	var myLibrary = &ecs.Library{
 		Id: ecs.Identifier{
-			Namespace: "lionel",
-			Path:      "tank",
+			Namespace: "oneforx",
+			Path:      "basemod",
 		},
 	}
 

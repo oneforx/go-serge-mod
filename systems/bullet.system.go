@@ -3,8 +3,8 @@ package systems
 import (
 	"log"
 
+	"github.com/oneforx/go-ecs"
 	"github.com/oneforx/go-serge-mod/compositions"
-	"github.com/oneforx/go-serge/ecs"
 )
 
 type BulletSystem struct {

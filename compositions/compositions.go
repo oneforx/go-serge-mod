@@ -1,6 +1,6 @@
 package compositions
 
-import "github.com/oneforx/go-serge/ecs"
+import "github.com/oneforx/go-ecs"
 
 var (
 	MOVABLE_COMPOSITION  ecs.Composition                    = []string{"oneforx:position"}
